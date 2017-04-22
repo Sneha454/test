@@ -8,6 +8,8 @@ public class Manager3 extends Manager1{
 		// TODO Auto-generated method stub
 		Manager3 m = new Manager3();
 		System.out.println(m.age);
+		
+		
 
 	}
 

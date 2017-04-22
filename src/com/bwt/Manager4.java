@@ -9,5 +9,6 @@ public class Manager4 extends Manager1 {
     Manager4 m4 = new Manager4();
     System.out.println(m4.age);
     
+    
 	}
 }
